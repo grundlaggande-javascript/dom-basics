@@ -1,0 +1,20 @@
+/* Basic styles for the demonstration */
+body {
+  font-family: Arial, sans-serif;
+}
+#main-title {
+  color: #333;
+  text-align: center;
+}
+.text {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #e0e0e0;
+}
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+li {
+  margin: 5px 0;
+}
