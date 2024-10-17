@@ -63,7 +63,3 @@ lastParagraph.insertAdjacentElement("afterend", newParagraph);
 // Removing the first list item
 const firstListItem = ul.querySelector("li");
 firstListItem.remove();
-
-// Alternatively, removing a child node (removing the second list item)
-const secondListItem = ul.querySelector("li");
-ul.removeChild(secondListItem);
